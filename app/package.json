@@ -1,0 +1,12 @@
+{
+  "name": "jenkins-nodejs-demo",
+  "version": "1.0.0",
+  "description": "A simple Node.js app to demonstrate Jenkins freestyle job",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "node tests/test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
